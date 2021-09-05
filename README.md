@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunuggo
 - 👀 I’m interested in Pali, Abhidhamma, Python, Javascript
 - 🌱 I’m currently learning Python, Javascript
-- 💞️ I’m looking to collaborate on making apps to learn Pali and Abhidhammma
+- 💞️ I’m looking to collaborate on opensource apps for learning Pali and Abhidhamma
 - 📫 How to reach me - email: arunuggo@gmail.com
 
 <!---
